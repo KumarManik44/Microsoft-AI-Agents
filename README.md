@@ -24,9 +24,9 @@ This course also uses the following AI Agent frameworks and services from Micros
 
 ## 🗃️ Lessons
 
-| **Project**                              |
-|------------------------------------------|
-| Intro to AI Agents and Agent Use Cases   |
+| **Project**                              | **Text & Code**                                    |
+|------------------------------------------|----------------------------------------------------|
+| Intro to AI Agents and Agent Use Cases   | [Link](./01-intro-to-ai-agents/README.md)          |
 | Exploring AI Agentic Frameworks          |
 | Understanding AI Agentic Design Patterns |
 | Tool Use Design Pattern                  |
