@@ -22,7 +22,7 @@ This course also uses the following AI Agent frameworks and services from Micros
 - Links to extra resources to continue your learning
 
 
-## 🗃️ Lessons
+## Projects
 
 | **Project**                              | **Text & Code**                                    |
 |------------------------------------------|----------------------------------------------------|
