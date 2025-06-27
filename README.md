@@ -1,4 +1,4 @@
-# 11 AI Agents
+# 11 AI Agents Projects
 
 Each project in this repository includes code examples, which can be found in the code_samples folder.
 The code in these projects, utilize Azure AI Foundry and GitHub Model Catalogs for interacting with Language Models:
