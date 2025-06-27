@@ -4,21 +4,12 @@ Tools are interesting because they allow AI agents to have a broader range of ca
 
 ## Introduction
 
-In this lesson, we're looking to answer the following questions:
+In this Project, we're looking to answer the following questions:
 
 - What is the tool use design pattern?
 - What are the use cases it can be applied to?
 - What are the elements/building blocks needed to implement the design pattern?
 - What are the special considerations for using the Tool Use Design Pattern to build trustworthy AI agents?
-
-## Learning Goals
-
-After completing this lesson, you will be able to:
-
-- Define the Tool Use Design Pattern and its purpose.
-- Identify use cases where the Tool Use Design Pattern is applicable.
-- Understand the key elements needed to implement the design pattern.
-- Recognize considerations for ensuring trustworthiness in AI agents using this design pattern.
 
 ## What is the Tool Use Design Pattern?
 
