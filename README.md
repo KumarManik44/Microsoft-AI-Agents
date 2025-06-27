@@ -32,7 +32,7 @@ This repository also uses the following AI Agent frameworks and services from Mi
 | Tool Use Design Pattern                  |[Link](./04%20-%20Tool%20Use/README.md)|
 | Agentic RAG                              |[Link](./05%20-%20Agentic%20RAG/README.md)|
 | Building Trustworthy AI Agents           |[Link](./06%20-%20Trustworthy%20AI%20Agent/README.md)|
-| Planning Design Pattern                  |
+| Planning Design Pattern                  |[Link](./07%20-%20Planning%20Design/README.md)|
 | Multi-Agent Design Pattern               |
 | Metacognition Design Pattern             |
 | AI Agents in Production                  |
