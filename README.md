@@ -29,7 +29,7 @@ This repository also uses the following AI Agent frameworks and services from Mi
 | Intro to AI Agents and Agent Use Cases   |[Link](./01%20-%20Intro%20to%20AI%20Agents/README.md)|
 | Exploring AI Agentic Frameworks          |[Link](./02%20-%20AI%20Agent%20Frameworks/README.md)|
 | Understanding AI Agentic Design Patterns |[Link](./03%20-%20AI%20Agentic%20Design%20Principles/README.md)|
-| Tool Use Design Pattern                  |
+| Tool Use Design Pattern                  |[Link](./04%20-%20Tool%20Use/README.md)|
 | Agentic RAG                              |
 | Building Trustworthy AI Agents           |
 | Planning Design Pattern                  |
