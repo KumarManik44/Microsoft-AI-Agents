@@ -35,5 +35,5 @@ This repository also uses the following AI Agent frameworks and services from Mi
 | Planning Design Pattern                  |[Link](./07%20-%20Planning%20Design/README.md)|
 | Multi-Agent Design Pattern               |[Link](./08%20-%20Multi%20Agent/README.md)|
 | Metacognition Design Pattern             |[Link](./09%20-%20Metacognition/README.md)|
-| AI Agents in Production                  |
+| AI Agents in Production                  |[Link](./10%20-%20AI%20Agent%20Production/README.md)|
 | AI Agents with MCP                       |
